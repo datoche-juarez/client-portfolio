@@ -1,15 +1,14 @@
 {
-    "name": "Dev Hive X Web Designs",
-    "email": "dtoch123@gmail.com",
-    "phoneForTel": "313-675-2860",
-    "phoneFormatted": "(313) 675-2860",
-    "address": {
-        "lineOne": "24639 New York Street",
-        "lineTwo": "Second Address Line",
-        "city": "Dearborn",
-        "state": "MI",
-        "zip": "48126",
-        "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
-    },
-    "domain": "https://www.codestitch.app"
+  "name": "Dev Hive X Web Designs",
+  "email": "dtoch123@gmail.com",
+  "phoneForTel": "313-675-2860",
+  "phoneFormatted": "(313) 675-2860",
+  "address": {
+    "lineOne": "24639 New York Street",
+    "city": "Dearborn",
+    "state": "MI",
+    "zip": "48126",
+    "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+  },
+  "domain": "https://www.codestitch.app"
 }
