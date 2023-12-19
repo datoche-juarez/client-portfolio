@@ -58,7 +58,6 @@
     /* 144px - 280px - leaving extra space for the navigation */
     /* changes on tablet */
     padding: clamp(9em, 25.95vw, 17.5em) 0;
-    position: relative;
   }
   #hero .cs-container:before {
     /* Left Line */
